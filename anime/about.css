@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'Courier New', Courier, monospace;
+}
+body{
+    background-image: url(mwallpaperflare.com_wallpaper.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    display: inline;
+    color: rgb(255, 255, 255);
+    width: 35%;
+    height: auto;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    background-color: transparent;
+    box-shadow: 8px 5px 5px #29292a
+}
+img{
+    width: 25%;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 35%;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 5px #1a1818;
+}
+main{
+    border-radius: 10px;
+}
+h1,h2{
+    margin-bottom: 40px;
+}
+h4{
+    margin-left: 12px;
+}
